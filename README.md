@@ -8,14 +8,14 @@ A machine learning project to predict customer churn using a supervised learning
 ```
 Churn-Prediction/
 ├── app.py                         # Flask web app for prediction
-├── Customer_Churn_Analysis.ipynb # Jupyter Notebook for EDA and model training
-├── gb_model.pkl                  # Pre-trained Gradient Boosting model
-├── Telco.csv                     # Customer dataset
+├── Customer_Churn_Analysis.ipynb  # Jupyter Notebook for EDA and model training
+├── gb_model.pkl                   # Pre-trained Gradient Boosting model
+├── Telco.csv                      # Customer dataset
 ├── templates/
-│   └── index.html                # HTML form for user input
+│   └── index.html                 # HTML form for user input
 ├── static/
-│   └── style.css                 # CSS styles (if any)
-└── README.md                     # Project documentation
+│   └── style.css                  # CSS styles (if any)
+└── README.md                      # Project documentation
 ```
 
 ## 📊 Dataset
