@@ -84,8 +84,14 @@ A simple Flask app is created to collect user inputs and predict whether a custo
 - Flask
 - HTML/CSS (basic)
 
+## 📽️ Presentation
+
+You can view the project presentation here:  
+[Churn Prediction Presentation (Canva)](https://www.canva.com/design/DAGj8ZL6egY/2T5wSL5qha6ilL-AvP5deA/edit?utm_content=DAGj8ZL6egY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
+---
 Feel free to contribute or raise issues to improve this project!
